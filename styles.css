@@ -1,0 +1,86 @@
+
+.background {
+  background-image: url('images/sample.jpg');
+    background-size: cover;
+  padding: 50px;
+  height: 100vh;
+}
+
+.card {
+    background-color: rgba(209, 255, 251, 0.3);
+    border-radius: 4px;
+    width: 307px;
+    height: 200px;
+    padding: 20px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+    margin-left: 137px;
+}
+
+.button {
+  background-color: rgba(209, 255, 251, 0.9);
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  border-radius: 4px;
+  margin-left: 137px;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  width: 307px;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: 'Gravitas One', cursive;
+  text-align: left;
+  font-size: 65px;
+  color: rgba(247, 44, 37, 1.00);
+  text-align: center;
+  letter-spacing: 6px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+  margin-top: 21px;
+  margin-bottom: 50px;
+}
+
+h3 {
+  letter-spacing: 2px;
+  font-style:italic;
+  text-align: left;
+  margin-top: 90px;
+  margin-bottom: 90px;
+  color: black;
+}
+
+p {
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+em {
+  color: rgba(247, 44, 37, 1.00);
+  font-size: 155%;
+}
+
+a:link {
+    font-family: 'Gravitas One', cursive;
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
