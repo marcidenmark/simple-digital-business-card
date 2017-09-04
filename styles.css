@@ -1,7 +1,10 @@
 
 .background {
+  /*note to workshop atendee: if you have your own image you're like to use:
+  you should place the image in the images folder and what ever hame you give
+  your image, write that name where the word sample now stands. */
   background-image: url('images/sample.jpg');
-    background-size: cover;
+  background-size: cover;
   padding: 50px;
   height: 100vh;
 }
@@ -27,6 +30,12 @@
   width: 307px;
   font-size: 16px;
 }
+
+.marcipapineau {
+  margin-top: 230px;
+  margin-left: 137px;
+}
+
 
 h1 {
   font-family: 'Gravitas One', cursive;
@@ -57,9 +66,8 @@ h3 {
 }
 
 p {
-  color: white;
-  text-align: center;
-  margin-bottom: 50px;
+  color: rgba(247, 44, 37, 1.00);
+  font-style:italic;
 }
 
 em {
